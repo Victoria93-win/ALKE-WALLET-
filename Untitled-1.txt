@@ -1,0 +1,20 @@
+alke-wallet/
+│
+├── src/
+│   ├── main/java/com/alkewallet/
+│   │   ├── model/
+│   │   │   ├── Wallet.java
+│   │   │   ├── Transaction.java
+│   │   │
+│   │   ├── service/
+│   │   │   ├── CurrencyConverter.java
+│   │   │   ├── CurrencyConverterImpl.java
+│   │   │
+│   │   ├── app/
+│   │   │   ├── Main.java
+│
+│   ├── test/java/com/alkewallet/
+│       ├── WalletTest.java
+│
+├── README.md
+├── pom.xml
